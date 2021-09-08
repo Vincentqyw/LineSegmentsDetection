@@ -9,6 +9,61 @@
 
 该方法是目前性价比（速度精度）最好的算法，现已经集成到`opencv`中[`LSDDetector`](https://docs.opencv.org/master/d1/dbd/classcv_1_1line__descriptor_1_1LSDDetector.html)。LSD能够在线性时间内检测到亚像素精度的线段。无需调整参数，适用于各种场景。因为每张图有误检，LSD能够控制误检率。PS：论文此处不介绍了，可以参考[这里](https://blog.csdn.net/chishuideyu/article/details/78081643?locationNum=9&fps=1)。
 
+## TP-LSD
+
+- 论文标题："TP-LSD: Tri-Points Based Line Segment Detector", ECCV 2020.
+- 论文地址：https://arxiv.org/abs/2009.05505
+- 代码地址：https://github.com/Siyuada7/TP-LSD
+
+
+## ULSD-ISPRS
+
+- 论文标题："ULSD: Unified Line Segment Detection across Pinhole, Fisheye, and Spherical Cameras",  arXiv 2021.
+- 论文地址：https://arxiv.org/abs/2011.03174
+- 代码地址：https://github.com/lh9171338/Unified-Line-Segment-Detection
+
+## LETR
+
+- 论文标题："Line Segment Detection Using Transformers without Edges",  CVPR 2021.
+- 论文地址：[https://arxiv.org/abs/2101.01909](https://arxiv.org/abs/2101.01909)
+- 代码地址：https://github.com/mlpc-ucsd/LETR
+
+
+## Deep-Hough-Transform-Line-Priors
+
+- 论文标题："Deep Hough-Transform Line Priors",  ECCV 2020.
+- 论文地址：[https://arxiv.org/pdf/2007.09493.pdf](https://arxiv.org/pdf/2007.09493.pdf)
+- 代码地址：https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors
+
+
+## F-Clip
+
+- 论文标题："Fully Convolutional Line Parsing",  arXiv 2021.
+- 论文地址：[https://arxiv.org/pdf/2104.11207v2.pdf](https://arxiv.org/pdf/2104.11207v2.pdf)
+- 代码地址：https://github.com/Delay-Xili/F-Clip
+
+
+## M-LSD
+
+- 论文标题："M-LSD: Towards Light-weight and Real-time Line Segment Detection",  arXiv 2021.
+- 论文地址：[https://arxiv.org/pdf/2106.00186.pdf](https://arxiv.org/pdf/2106.00186.pdf)
+- 代码地址：https://github.com/navervision/mlsd
+
+
+## AFM-LSD
+
+- 论文标题："Learning Attraction Field Representation for Robust Line Segment Detection",  CVPR 2019.
+- 论文地址：[https://arxiv.org/pdf/1812.02122.pdf](https://arxiv.org/pdf/1812.02122.pdf)
+- 代码地址：https://github.com/cherubicXN/afm_cvpr2019
+
+
+## L-CNN
+
+- 论文标题："End-to-End Wireframe Parsing",  ICCV 2019.
+- 论文地址：[https://arxiv.org/pdf/1905.03246.pdf](https://arxiv.org/pdf/1905.03246.pdf)
+- 代码地址：https://github.com/zhou13/lcnn
+
+
 ## LSWMS
 
 - 论文标题："Line segment detection using weighted mean shift procedures on a 2D slice sampling strategy"
@@ -17,7 +72,7 @@
 
 ## EDline（ED: Edge Drawing）
 - 论文标题："Edge Drawing: A Combined Real-Time Edge and Segment Detector"
-- 论文地址：https://sci-hub.tw/10.1016/j.jvcir.2012.05.004
+- 论文地址：https://www.sciencedirect.com/science/article/abs/pii/S1047320312000831
 - 代码地址：https://github.com/mtamburrano/LBD_Descriptor
 
 ## [CannyLines](http://cvrs.whu.edu.cn/projects/cannyLines/)
