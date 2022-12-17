@@ -1,0 +1,36 @@
+[submodule "thirdparty/DeepLSD"]
+	path = thirdparty/DeepLSD
+	url = https://github.com/cvg/DeepLSD.git
+[submodule "thirdparty/MLSD"]
+	path = thirdparty/MLSD
+	url = https://github.com/navervision/mlsd.git
+[submodule "thirdparty/F-Clip"]
+	path = thirdparty/F-Clip
+	url = https://github.com/Delay-Xili/F-Clip.git
+[submodule "thirdparty/SOLD2"]
+	path = thirdparty/SOLD2
+	url = https://github.com/cvg/SOLD2.git
+[submodule "thirdparty/LETR"]
+	path = thirdparty/LETR
+	url = https://github.com/mlpc-ucsd/LETR.git
+[submodule "thirdparty/HAWP"]
+	path = thirdparty/HAWP
+	url = https://github.com/cherubicXN/hawp.git
+[submodule "thirdparty/TP-LSD"]
+	path = thirdparty/TP-LSD
+	url = https://github.com/Siyuada7/TP-LSD.git
+[submodule "thirdparty/ULSD"]
+	path = thirdparty/ULSD
+	url = https://github.com/lh9171338/Unified-Line-Segment-Detection.git
+[submodule "thirdparty/DHTLP"]
+	path = thirdparty/DHTLP
+	url = https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors.git
+[submodule "thirdparty/AFM-LSD"]
+	path = thirdparty/AFM-LSD
+	url = https://github.com/cherubicXN/afm_cvpr2019.git
+[submodule "thirdparty/LCNN"]
+	path = thirdparty/LCNN
+	url = https://github.com/zhou13/lcnn.git
+[submodule "thirdparty/LBD"]
+	path = thirdparty/LBD
+	url = https://github.com/mtamburrano/LBD_Descriptor.git
