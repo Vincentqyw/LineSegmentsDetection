@@ -107,7 +107,7 @@ git clone --recurse-submodules https://github.com/Vincentqyw/LineSegmentsDetecti
 
 ## LSD
 
-- Title: "LSD: a Line Segment Detector", Image Processing On Line 2012
+- Title: "LSD: a Line Segment Detector", Image Processing On Line 2012.
 - Project Page: http://www.ipol.im/pub/art/2012/gjmr-lsd/
 - Paper: http://www.ipol.im/pub/art/2012/gjmr-lsd/article.pdf
 - Code: http://www.ipol.im/pub/art/2012/gjmr-lsd/lsd_1.5.zip
