@@ -28,3 +28,6 @@
 [submodule "lcnn"]
 	path = lcnn
 	url = https://github.com/zhou13/lcnn.git
+[submodule "hawp"]
+	path = hawp
+	url = https://github.com/cherubicXN/hawp.git
