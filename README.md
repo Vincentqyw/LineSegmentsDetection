@@ -6,7 +6,6 @@
 ## 
 
 This repository hosts the papers with code for line segment detection, enjoy yourself. 
-(线段检测算法汇总，请各位自行调试)
 
 <!-- ![](assets/images/line-segment-detection.jpg) -->
 
